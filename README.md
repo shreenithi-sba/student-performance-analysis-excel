@@ -59,8 +59,24 @@ The project uses the **Students Performance Dataset**, which contains informatio
 - Student_Performance_Analysis.xlsx – Excel workbook containing the complete analysis.
 - StudentsPerformance.csv – Original dataset used for the project.
 
+## Project Screenshots
+
+### Summary Statistics
+
+![Summary Statistics](summary_statistics.jpg)
+
+### Test Preparation Analysis
+
+![Test Preparation Analysis](test_preparation_analysis.jpg)
+
+### Parental Education Analysis
+
+![Parental Education Analysis](parental_education_analysis.jpg)
+
 ## Author
 
 Shreenithi
 
 BBA (Strategy & Business Analytics) Student
+
+
